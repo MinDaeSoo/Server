@@ -1,6 +1,8 @@
 # Server
-
-### [루키스 서버 참고 링크](https://drive.google.com/drive/folders/1d1v9ryF8Aj5e2BU5aShb4P25I-DJhK19?usp=drive_link)
+---
+# [루키스 서버 참고 링크](https://drive.google.com/drive/folders/1d1v9ryF8Aj5e2BU5aShb4P25I-DJhK19?usp=drive_link)
+---
+# [코드 리뷰 방법](https://mine-it-record.tistory.com/692)
 ---
 # [커밋 컨벤션](https://overcome-the-limits.tistory.com/6)
 ### 기능  
